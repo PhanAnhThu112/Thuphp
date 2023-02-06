@@ -1,4 +1,5 @@
-<?php
+<!-- Tính điểm trung bình -->
+<!-- <?php
     $tensv = $_POST["tensv"];
     $diemtb = $_POST["dtb"];
     switch ($diemtb){
@@ -18,7 +19,7 @@
             echo "$tensv là học sinh yếu kém!";
             break;
     }
-    ?>
+    ?> -->
 
 <!-- Tìm tháng đó có bao nhiêu ngày -->
  <?php
